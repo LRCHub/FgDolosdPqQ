@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "KISSして",
+  "base_artist": "KOH+",
+  "createdAt": "2025-12-02T20:59:09.049004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KISSして - Kiss Shite",
+      "artist": "KOH",
+      "has_synced": false,
+      "path": "select/01_KISSして_-_Kiss_Shite_KOH.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KISSして - Kissshite",
+      "artist": "KOH",
+      "has_synced": true,
+      "path": "select/02_KISSして_-_Kissshite_KOH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KISSして (Original Karaoke)",
+      "artist": "KOH+",
+      "has_synced": false,
+      "path": "select/03_KISSして_(Original_Karaoke)_KOH+.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KISSして",
+      "artist": "KOH+",
+      "has_synced": true,
+      "path": "select/04_KISSして_KOH+.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KISSして",
+      "artist": "KOH+",
+      "has_synced": false,
+      "path": "select/05_KISSして_KOH+.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KISSして",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": false,
+      "path": "select/06_KISSして_Masaharu_Fukuyama.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KISSして",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/07_KISSして_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KISSして",
+      "artist": "KOH+",
+      "has_synced": false,
+      "path": "select/pl_01_KISSして_KOH+.txt"
+    }
+  ]
+}
